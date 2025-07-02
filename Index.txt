@@ -1,0 +1,44 @@
+<html>
+<head>
+<title> Horoscopo </title>
+</head>
+<body>
+<title> Horóscopo </title>
+<meta charset="utf - 8">
+</head>
+<body>
+
+<!-- Inicio Menu --->
+
+<img src="roda.png" width="409" height="190">
+<h1> Bem Vindo Ao Horóscopo </h1>
+<table>
+<tr>
+<td><a href="Áries.html">Áries</a></td>
+<td><a href="Touro.html">Touro</a></td>
+<td><a href="Gêmeos.html">Gêmeos</a></td>
+</tr>
+<tr>
+<td><a href="Cáncer.html">Cáncer</a></td>
+<td><a href="Leão.html">Leão</a></td>
+<td><a href="Virgem.html">Virgem</a></td>
+</tr>
+<tr>
+<td><a href="Libra.html">Libra</a></td>
+<td><a href="Escorpião.html">Escorpião</a></td>
+<td><a href="Sagitário.html">Sagitário</a></td>
+</tr>
+<tr>
+<td><a href="Capricórnio.html">Capricórnio</a></td>
+<td><a href="Aquário.html">Aquário</a></td>
+<td><a href="Peixes.html">Peixes</a></td>
+</tr>
+
+<p><h3>Qual é o objetivo do horóscopo?
+O horóscopo é uma ferramenta astrológica que informa sobre as movimentações e influências planetárias, fáceis ou difíceis, que estão ou estarão no seu caminho. A forma com que você encara essas influências é o que faz a diferença.</h3></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/My80zuwM3vU?si=Xsn9LjZ76BmxXt7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<!-- Fim Menu --->
+
+</body>
+</html>
